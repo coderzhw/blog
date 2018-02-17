@@ -1,0 +1,30 @@
+# site title
+title: GeekBoy
+
+# user name or organization name
+user: coderzhw
+
+# issue repository
+repository: blog
+
+# multi-author
+authors:
+
+# token
+# token should be separated by '#'
+# example: 5#c31bffc137f44faf7efc4a84da827g7ca2cfeaa
+token: 2#c31a88f047c481ffd99b17ad3762517882bfdbb
+
+# posts per page
+perpage: 10
+
+
+# advance config
+
+# organization repository (?)
+organization: false
+
+# post order
+# order by create time" or "update time"
+# 'UPDATED_AT' or 'CREATED_AT'
+order: 'CREATED_AT'
