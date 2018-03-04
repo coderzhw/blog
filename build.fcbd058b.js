@@ -490,7 +490,7 @@
     Object.defineProperty(t, "__esModule", {value: !0});
     var r = e(8), o = window.config, i = o.title, a = o.user, s = o.repository, u = (0, r.creator)("div", {
         id: "footer",
-        innerHTML: "\n    &copy; " + (new Date).getFullYear() + " " + i + '. Powered by\n    <a href="https://github.com/LoeiFy/Mirror" target="_blank">Mirror</a> .\n    <a href="https://github.com/' + a + "/" + s + '/issues" target="_blank">Source</a>\n  '
+        innerHTML: "\n    &copy; " + (new Date).getFullYear() + " " + i + '. Powered by\n    <a href="#" target="_blank">Mirror</a> .\n    <a href="https://github.com/' + a + "/" + s + '/issues" target="_blank">Source</a>\n  '
     });
     t.default = u
 }, function (n, t, e) {
